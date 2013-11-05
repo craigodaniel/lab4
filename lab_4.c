@@ -7,6 +7,7 @@
 #include <msp430.h> 
 #include "lcd_lib.h"
 
+// a comment
 
 int main(void){
 	WDTCTL = WDTPW | WDTHOLD;
